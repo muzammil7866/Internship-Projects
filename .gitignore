@@ -1,0 +1,49 @@
+# Machine Learning Models and Checkpoints
+*.pt
+*.pth
+*.bin
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+*.safetensors
+checkpoint-*/
+pretrained/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large files log
+large_files.txt
+large_files_list.txt
+large_files_output.txt
+find_large_files.py
