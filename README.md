@@ -1,5 +1,3 @@
----
-
 ### 3. Repository: `Internship-Projects`
 
 **🔹 Repository Description**
