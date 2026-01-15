@@ -1,10 +1,3 @@
-### 3. Repository: `Internship-Projects`
-
-**🔹 Repository Description**
-> A record of technical tasks and project modules completed during my professional internship. This repository documents real-world problem solving, code optimizations, and features contributed to production-level software under industry supervision.
-
-**📄 README.md**
-```markdown
 # Internship Projects
 
 This repository contains the tasks, modules, and codebases worked on during my internship tenure. It serves as a log of my professional development and technical contributions.
