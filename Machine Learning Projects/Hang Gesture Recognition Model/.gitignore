@@ -1,0 +1,42 @@
+# Virtual Environments
+gesture_env_311/
+venv/
+env/
+*.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Data and Models (if too large)
+leapGestRecog/
+*.h5
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test Images
+*.jpg
+*.png
+WIN_*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Misc
+*.log
+.env
